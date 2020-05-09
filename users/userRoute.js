@@ -1,5 +1,5 @@
 const express = require("express");
-const db = reaquire("../data/config-db");
+const db = require("../data/config-db");
 
 const route = express.Router();
 
