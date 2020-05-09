@@ -10,7 +10,7 @@ module.exports = {
   //   },
   development: {
     client: "pg",
-    connection: "postgres://localhost/users",
+    connection: "postgres://localhost/users2",
   },
   migrations: {
     directory: "./data/migrations",
